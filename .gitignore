@@ -1,0 +1,7 @@
+/config/config.local.php
+/.env
+/*.sql
+/*.log
+/*.zip
+/.idea/
+/.vscode/

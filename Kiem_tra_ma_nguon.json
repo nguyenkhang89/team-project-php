@@ -1,0 +1,12 @@
+{
+  "runtime": "PHP 8.3.36 Windows portable",
+  "syntax": "All PHP files passed php -l",
+  "http_tests_passed": 17,
+  "test_database": "SQLite on temporary adapted copy; production source remains PDO MySQL",
+  "not_verified": [
+    "MySQL 8 integration",
+    "Apache on Ubuntu",
+    "GitHub push",
+    "AWS EC2 deployment"
+  ]
+}
